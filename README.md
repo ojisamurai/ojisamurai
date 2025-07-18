@@ -13,7 +13,7 @@
 - 🎓 Диплом о среднем специальном образовании  
 - 📚 Закончил 4 курса по веб-разработке (HTML, CSS, JS)
 - 💼 Ищу фуллтайм работу или проекты на фрилансе (от 80 000 ₽)
-- 📬 Telegram: [@ojisamurai](https://t.me/ojisamurai)
+- 📬 Telegram: [@easykai](https://t.me/easykai)
 
 ---
 
